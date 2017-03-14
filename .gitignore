@@ -1,0 +1,7 @@
+/.gradle
+/.idea
+/activemq-data
+/build
+/gradle
+/gradlew
+/gradlew.bat
